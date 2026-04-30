@@ -77,4 +77,8 @@ This dashboard helps stakeholders:
 - Make data-driven logistics decisions
 
 
+# output 
+
+<img width="1919" height="976" alt="Screenshot 2026-04-23 170848" src="https://github.com/user-attachments/assets/347565ad-d6a8-4309-80c0-b97115a80cc2" />
+
 
